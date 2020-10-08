@@ -5,7 +5,7 @@
 
 #### Technology :computer: 
 
-  :vhs: Back-end: Spring boot, PostgreSQL
+  :vhs: Database: PostgreSQL
   
   :sunrise_over_mountains: Front-end: HTML5,CSS3
   
