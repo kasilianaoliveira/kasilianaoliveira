@@ -1,6 +1,9 @@
-#### Hi there 👋
+### Hi 👋
 
-#### Technology :computer: :book:
+#### Student :book:
+  Information Systems at the Federal University of Ceará
+
+#### Technology :computer: 
 
   :vhs: Back-end: Spring boot, PostgreSQL
   
