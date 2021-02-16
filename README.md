@@ -9,7 +9,7 @@
   
   :sunrise_over_mountains: Front-end: HTML5,CSS3
   
- 🌱 I’m currently learning: ReactJs
+ 🌱 I’m currently learning: Flutter
  
  :high_brightness: Languages I use: JavaScript, Java
 
