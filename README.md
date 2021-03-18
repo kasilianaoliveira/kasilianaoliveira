@@ -5,6 +5,7 @@
 #### Technology :computer: 
 
   #### * :vhs: Database: PostgreSQL 
+  * Item 1
   #### * :sunrise_over_mountains: Front-end: HTML5,CSS3 
   #### * :high_brightness: Languages I use: JavaScript, Java 
 ---
