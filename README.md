@@ -1,4 +1,4 @@
-### Hi, I'm Kasiliana: sparkles:
+### Hi, I'm Kasiliana :sparkles:
 ---
 #### :book: I am a student of information systems at the Federal University of Ceará and I am looking for experience with a main focus on front-end
 
