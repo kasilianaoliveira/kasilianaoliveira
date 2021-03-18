@@ -4,10 +4,10 @@
 
 #### Technology :computer: 
 
-  #### * :vhs: Database: PostgreSQL 
+  * Database: PostgreSQL :vhs:
   * Item 1
-  #### * :sunrise_over_mountains: Front-end: HTML5,CSS3 
-  #### * :high_brightness: Languages I use: JavaScript, Java 
+  * Front-end: HTML5,CSS3 :sunrise_over_mountains:
+  * Languages I use: JavaScript, Java :high_brightness:
 ---
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasiliana-oliveira/)](https://www.linkedin.com/in/kasiliana-oliveira/)
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox)](https://mail.google.com/mail/u/0/#inbox)
