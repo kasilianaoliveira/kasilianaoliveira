@@ -2,7 +2,7 @@
 ---
 #### :book: I am a student of information systems at the Federal University of Ceará and I am looking for experience with a main focus on front-end
 
-#### Technology :computer: 
+####### Technology :computer: 
 
   :vhs: Database: PostgreSQL 
   &nbsp;
