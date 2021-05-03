@@ -4,7 +4,7 @@ I am a student of information systems at the Federal University of Ceará and I 
 
 #### Technology :computer: 
 
-  * Tools: Vs code, Figma, Android studio emulator 
+  * Tools: Vs code, Figma, Intellij
   * Database: PostgreSQL 
   * Front-end: HTML5,CSS3 
   * Languages I use: JavaScript, Java 
