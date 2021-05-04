@@ -2,7 +2,7 @@
 
 I am a student of information systems at the Federal University of Ceará and I am looking for experience with a main focus on mobile or front-end :book: 
 
-#### Technology :computer: 
+### Skills :computer: 
 
   * Tools: Vs code, Figma, Intellij
   * Database: PostgreSQL 
