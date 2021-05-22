@@ -19,7 +19,7 @@ I am a student of information systems at the Federal University of Ceará and I 
 
 ##
 <p align="left">
-  💌 Contato: ⤵️
+  💌 Contact Me: ⤵️
 </p>
 
 <p align="left">
