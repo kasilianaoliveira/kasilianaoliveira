@@ -18,9 +18,9 @@ I am a student of information systems at the Federal University of Ceará and I 
   * Currently studying: JavaScript, React, React Native
 
 ##
-<p align="left">
-  💌 Contact Me: ⤵️
-</p>
+
+### 💌 Contact Me: ⤵️
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kasiliana-oliveira" target="_blank">
