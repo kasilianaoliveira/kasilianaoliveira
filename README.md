@@ -17,7 +17,7 @@ I am a student of information systems at the Federal University of Ceará and I 
   * Languages I use: JavaScript, Java 
   * Currently studying: JavaScript, React, React Native
 
-
+##
 <p align="left">
   💌 Contato: ⤵️
 </p>
