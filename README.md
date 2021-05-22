@@ -2,6 +2,7 @@
 
 I am a student of information systems at the Federal University of Ceará and I am looking for experience with a main focus on mobile or front-end :book: 
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 ### Skills :computer: 
 
   * Tools: Vs code, Figma, Intellij
