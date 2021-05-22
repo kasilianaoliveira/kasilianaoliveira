@@ -23,7 +23,7 @@ I am a student of information systems at the Federal University of Ceará and I 
 </p>
 
 <p align="left">
-  a href="https://www.linkedin.com/in/kasiliana-oliveira" target="_blank">
+  <a href="https://www.linkedin.com/in/kasiliana-oliveira" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href="https://instagram.com/kasilianaa" target="_blank">
