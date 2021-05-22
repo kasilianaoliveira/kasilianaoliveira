@@ -6,7 +6,7 @@ I am a student of information systems at the Federal University of Ceará and I 
   
   <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">-->
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+  <img src="computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 ### Skills :computer: 
