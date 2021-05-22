@@ -2,7 +2,9 @@
 
 I am a student of information systems at the Federal University of Ceará and I am looking for experience with a main focus on mobile or front-end :book: 
 
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <!--<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
+  
+  <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 ### Skills :computer: 
 
@@ -22,7 +24,7 @@ I am a student of information systems at the Federal University of Ceará and I 
  [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
  [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true)
+ <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true) -->
  <!--[![kasilianaoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&hide=html&layout=compact&theme=radical)](https://github.com/kasilianaoliveira/)
 -->
 
