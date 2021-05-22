@@ -22,7 +22,9 @@ I am a student of information systems at the Federal University of Ceará and I 
  [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
  [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
  
- [![kasilianaoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&hide=html&layout=compact&theme=radical)](https://github.com/kasilianaoliveira/)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true)
+ <!--[![kasilianaoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&hide=html&layout=compact&theme=radical)](https://github.com/kasilianaoliveira/)
+-->
 
  
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox)](https://mail.google.com/mail/u/0/#inbox)
