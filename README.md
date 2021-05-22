@@ -18,19 +18,16 @@ I am a student of information systems at the Federal University of Ceará and I 
   * Currently studying: JavaScript, React, React Native
 
 
+<p align="left">
+  💌 Contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasiliana-oliveira/" /></a>
+  
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/kasilianaa/"/></a>
+</p>  
 
 
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasiliana-oliveira/)](https://www.linkedin.com/in/kasiliana-oliveira/)
- 
- <!--[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
- [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
- [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
- [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira) -->
- 
- <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true) -->
- <!--[![kasilianaoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&hide=html&layout=compact&theme=radical)](https://github.com/kasilianaoliveira/)
--->
-
- 
-<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox)](https://mail.google.com/mail/u/0/#inbox)
--->
