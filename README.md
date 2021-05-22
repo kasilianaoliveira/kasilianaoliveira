@@ -4,7 +4,10 @@ I am a student of information systems at the Federal University of Ceará and I 
 
   <!--<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
   
-  <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+  <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">-->
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 
 ### Skills :computer: 
 
