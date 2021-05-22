@@ -6,7 +6,7 @@ I am a student of information systems at the Federal University of Ceará and I 
   
   <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">-->
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 ### Skills :computer: 
@@ -19,13 +19,13 @@ I am a student of information systems at the Federal University of Ceará and I 
 
 
 
-##
+
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasiliana-oliveira/)](https://www.linkedin.com/in/kasiliana-oliveira/)
  
- [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
+ <!--[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
  [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
- [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira)
+ [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/kasilianaoliveira)](https://github.com/kasilianaoliveira) -->
  
  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true) -->
  <!--[![kasilianaoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&hide=html&layout=compact&theme=radical)](https://github.com/kasilianaoliveira/)
