@@ -14,7 +14,7 @@ I am a student of information systems at the Federal University of Ceará and I 
   * Tools: Vs code, Figma, Intellij
   * Database: PostgreSQL 
   * Languages I use: JavaScript, Java 
-  * Currently studying: JavaScript, React
+  * Currently studying: JavaScript, React, Spring
 
 ##
 
