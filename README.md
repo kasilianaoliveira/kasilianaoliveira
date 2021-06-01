@@ -15,11 +15,7 @@ I am a student of information systems at the Federal University of Ceará and I 
   * Database: PostgreSQL 
   * Languages I use: JavaScript, Java 
   * Currently studying: JavaScript, Node, Spring
-
-<div>
-  <a href="https://github.com/kasilianaoliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+  * 
 ##
 
 ### Contact Me: ⤵️
