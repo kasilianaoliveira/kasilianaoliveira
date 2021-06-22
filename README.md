@@ -11,10 +11,9 @@ I am a student of information systems at the Federal University of Ceará
 
 ### Skills :computer: 
 
-  * Tools: Vs code, Figma, Intellij
+  * Tools: Vs code, Figma, Intellij IDEA, Insomnia
   * Database: PostgreSQL 
   * Languages I use: JavaScript, Java 
-  * Currently studying: Typescript, Angular, Spring
   
 ##
 
