@@ -1,4 +1,4 @@
-## Olá! Eu sou a Kasiliana :sparkles:
+## Hi! I am Kasiliana :sparkles:
 
 I am a student of information systems at the Federal University of Ceará
 
