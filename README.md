@@ -40,7 +40,7 @@ I am a student of information systems at the Federal University of Ceará
   
   <a href="https://instagram.com/kasilianaa" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  [![Hotmail Badge](https://img.shields.io/badge/Gmail-AD1F1C?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=AD1F1C)](kasilianaoliveira@gmail.com)
+ <p>[![Hotmail Badge](https://img.shields.io/badge/Gmail-AD1F1C?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=AD1F1C)](kasilianaoliveira@gmail.com)</p>
 </p>  
 
 
