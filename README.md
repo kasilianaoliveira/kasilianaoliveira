@@ -14,6 +14,12 @@ I am a student of information systems at the Federal University of Ceará
   * Tools: Linux, Vs code, Figma, Intellij IDEA, Insomnia
   * Database: PostgreSQL 
   * Languages I use: JavaScript, Java 
+
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
   
 ##
 
