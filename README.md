@@ -24,6 +24,10 @@
 <a href= https://github.com/kasilianaoliveira?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> </a>
 
+<div>
+  <a href="https://github.com/kasilianaoliveira">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
   
 ##
