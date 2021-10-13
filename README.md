@@ -9,6 +9,10 @@
   <img src="computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<div>
+  <a href="https://github.com/kasilianaoliveira">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="38"/> </a> 
 <a href= https://github.com/kasilianaoliveira?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/kasilianaoliveira?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
@@ -23,10 +27,6 @@
 <a href= https://github.com/kasilianaoliveira?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> </a>
 
-<div>
-  <a href="https://github.com/kasilianaoliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   
 ##
