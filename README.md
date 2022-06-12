@@ -34,7 +34,7 @@
 <div align="left">
  
    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true&theme=radical" width="400px"><p>
-   <p><img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=radical"/><p>
+   <p><img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=radical" width="300px"/><p>
 </div>
   
 
