@@ -2,8 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kasilianaoliveira&color=blueviolet" alt="Profile views" /> 
 
  ## 🛠 &nbsp;Tech Stack
-  <img src="computer.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador">
+  <img src="computer.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Computador">
 <div>
+ 
 
   <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
@@ -31,13 +32,18 @@
 </p>  
 
 ##
-<div align="left">
- 
+ <div align="left">
    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true&theme=radical" width="400px"><p>
-   <p><img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=radical" width="300px"/><p>
 </div>
-  
+<!--  <div>
+   <p><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=radical" width="500px"/><p>
+</div>
+ -->
+<!-- <div align="left">
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true&theme=radical" width="400px"><p>
+</div>
 
-![Snake animation](https://github.com/kasilianaoliveira/kasilianaoliveira/blob/output/github-contribution-grid-snake.svg)
+## -->
+<!-- ![Snake animation](https://github.com/kasilianaoliveira/kasilianaoliveira/blob/output/github-contribution-grid-snake.svg) -->
 
 
