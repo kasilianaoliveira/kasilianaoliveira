@@ -32,9 +32,9 @@
 </p>  
 
 ##
- <div align="left">
+<!-- <div align="left">
    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kasilianaoliveira&show_icons=true&theme=radical" width="400px"><p>
-</div>
+</div> -->
 <!--  <div>
    <p><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasilianaoliveira&layout=compact&langs_count=7&theme=radical" width="500px"/><p>
 </div>
